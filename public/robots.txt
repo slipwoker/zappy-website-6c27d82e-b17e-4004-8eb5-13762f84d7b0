@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thai-noy-6c27d82e.zappy5.app/sitemap.xml
